@@ -30,5 +30,8 @@ To determine:
 - Data Analysis
 - Dashboard Design
 
+## Dashboard Preview
+<img width="1919" height="1050" alt="Dashboard" src="https://github.com/user-attachments/assets/4c8ab57b-4791-43e6-93a0-54b8bca13a33" />
+
 ## Certificate
 Certificate of completion from Deloitte via Forage is included in this repository.
